@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="910fee5a-266b-4ad5-8ff1-7f2baa43c762" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/EURGBP_M20_201501020100_202010302240.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/EURUSD_M20_201501020100_202010302240.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/GBPUSD_M20_201501020100_202010302240.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/USDCHF_M20_201501020100_202010302240.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/USDJPY_M20_201501020100_202010302240.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetwork/DatasetMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetwork/DatasetMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subroutines.py" beforeDir="false" afterPath="$PROJECT_DIR$/subroutines.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
