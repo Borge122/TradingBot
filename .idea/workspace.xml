@@ -2,21 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="910fee5a-266b-4ad5-8ff1-7f2baa43c762" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DatasetMaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphPlotter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhaseDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subroutines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Data.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Data.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FunctionTesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionTesting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/EURCHF_H1_202001020100_202011101800.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/GBPUSD_H1_202001020000_202011102200.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HistoricalRecords/GBPUSD_M12_202001020000_202011102300.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NeuralNetwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetwork.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptRunner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baseFunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/baseFunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HistoricalRecords/EURGBP_M20_201501020100_202010302240.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HistoricalRecords/EURUSD_M20_201501020100_202010302240.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HistoricalRecords/GBPUSD_M20_201501020100_202010302240.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HistoricalRecords/USDCHF_M20_201501020100_202010302240.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HistoricalRecords/USDJPY_M20_201501020100_202010302240.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +42,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GraphPlotter">
+  <component name="RunManager" selected="Python.DatasetMaker (1)">
+    <configuration name="DatasetMaker (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TradingBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuralNetwork" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetwork/DatasetMaker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DatasetMaker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TradingBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,27 +77,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DatasetMaker.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FunctionTesting" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TradingBot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionTesting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DatasetMaker (1)" />
         <item itemvalue="Python.GraphPlotter" />
         <item itemvalue="Python.DatasetMaker" />
         <item itemvalue="Python.script" />
         <item itemvalue="Python.ScriptRunner" />
-        <item itemvalue="Python.FunctionTesting" />
       </list>
     </recent_temporary>
   </component>
@@ -193,16 +183,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/NN_layers.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
