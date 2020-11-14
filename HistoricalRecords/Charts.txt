@@ -1,0 +1,36 @@
+Charts we trade the most
+Charts which are the most correlated
+
+5->
+USOIL (+ CAD,USD,AUD,NZD)
+FTSE100 (+ GBP)
+DJ30 (-JPY)
+USDX (+ USD)
+DAX (-JPY)
+
+15-> Charts we plan to trade.
+1 USDCAD
+2 USDAUD
+3 USDEUR
+4 USDGBP
+5 USDCHF
+6 USDJPY
+7 USDNZD
+
+8 EURGBP
+9 EURAUD
+10 GBPCAD
+11 CADJPY
+12 GBPCHF
+13 AUDJPY
+14 AUDCAD
+15 EURJPY
+
+-Datetimes are different
+EURGBP x 2 strong currencies
+
+Majors USDv
+CAD, AUS, EUR, GBP, CHF, JPY
+Minors
+Cross pair
+USDEUR, USDAUS -> EURAUS
