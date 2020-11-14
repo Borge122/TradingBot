@@ -4,6 +4,7 @@
     <list default="true" id="910fee5a-266b-4ad5-8ff1-7f2baa43c762" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NeuralNetwork/DatasetMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetwork/DatasetMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NeuralNetwork/NeuralNetwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/NeuralNetwork/NeuralNetwork.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/subroutines.py" beforeDir="false" afterPath="$PROJECT_DIR$/subroutines.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DatasetMaker (1)">
+  <component name="RunManager" selected="Python.NeuralNetwork">
     <configuration name="DatasetMaker (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TradingBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ScriptRunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TradingBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NeuralNetwork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScriptRunner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetwork/NeuralNetwork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.NeuralNetwork" />
         <item itemvalue="Python.DatasetMaker (1)" />
         <item itemvalue="Python.GraphPlotter" />
         <item itemvalue="Python.DatasetMaker" />
         <item itemvalue="Python.script" />
-        <item itemvalue="Python.ScriptRunner" />
       </list>
     </recent_temporary>
   </component>
