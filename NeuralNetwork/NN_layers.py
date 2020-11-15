@@ -18,7 +18,7 @@ def fcl(x, structure, name, keep_prob=1.):
         variables["biases"].append(tf.get_variable(f"{name}.{i+1}.b", structure[i], initializer=tf.zeros_initializer))
         x = tf.add(tf.matmul(x, variables["weights"][-1]), variables["biases"][-1])
         if i != len(structure)-1:
-            x = geebs_tanh(x)
+            x = tf.nn.sigmoid(x)
     return x
 
 
