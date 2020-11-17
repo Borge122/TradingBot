@@ -2,7 +2,7 @@ from baseFunctions import *
 import numpy as np
 
 inp = tf.placeholder('float', [2, 5])
-out = unitise(inp)
+out = geebs_tanh(inp)
 
 with tf.Session() as sess:
     sess.run(tf.initialize_all_variables())
